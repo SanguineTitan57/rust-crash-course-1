@@ -1,4 +1,4 @@
-use tuple::*;
+use tuple_solution::*;
 
 #[test]
 fn test_first() {

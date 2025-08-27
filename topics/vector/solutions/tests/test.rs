@@ -1,4 +1,4 @@
-use vector::*;
+use vector_solution::*;
 
 #[test]
 fn test_init() {

@@ -1,4 +1,4 @@
-use struct_type::*;
+use struct_type_solution::*;
 
 #[test]
 fn test_account() {

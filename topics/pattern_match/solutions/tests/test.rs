@@ -1,4 +1,4 @@
-use pattern_match::*;
+use pattern_match_solution::*;
 
 #[test]
 fn test_num_to_string() {

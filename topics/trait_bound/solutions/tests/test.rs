@@ -1,4 +1,4 @@
-use trait_bound::*;
+use trait_bound_solution::*;
 
 #[test]
 fn test_min() {

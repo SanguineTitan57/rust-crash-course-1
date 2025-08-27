@@ -1,5 +1,5 @@
-use iterator_adaptors::*;
-use std::collections::HashMap;
+use iterator_adaptors_solution::*;
+use iterator_adaptors_solution::HashMap;
 
 #[test]
 fn test_filter_non_zero() {

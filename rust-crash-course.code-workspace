@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "name": "rust-crash-course",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "rust-analyzer.linkedProjects": [
+            "./Cargo.toml"
+        ],
+        "rust-analyzer.cargo.buildScripts.enable": true,
+        "rust-analyzer.check.command": "check",
+        "rust-analyzer.workspace.symbol.search.scope": "workspace_and_dependencies",
+        "rust-analyzer.cargo.features": "all"
+    },
+    "extensions": {
+        "recommendations": [
+            "rust-lang.rust-analyzer",
+            "vadimcn.vscode-lldb"
+        ]
+    }
+}

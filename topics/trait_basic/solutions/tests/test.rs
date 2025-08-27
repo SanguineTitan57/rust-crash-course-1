@@ -1,4 +1,4 @@
-use trait_basic::*;
+use trait_basic_solution::*;
 
 #[test]
 fn test_tester() {

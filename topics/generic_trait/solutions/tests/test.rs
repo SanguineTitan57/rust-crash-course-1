@@ -1,4 +1,4 @@
-use generic_trait::*;
+use generic_trait_solution::*;
 
 #[test]
 fn test_tuple_iter() {

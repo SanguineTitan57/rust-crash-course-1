@@ -1,4 +1,4 @@
-use array::*;
+use array_solution::*;
 
 #[test]
 fn test_zeros() {

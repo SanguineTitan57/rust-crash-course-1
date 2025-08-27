@@ -1,4 +1,4 @@
-use function::*;
+use function_solution::*;
 
 #[test]
 fn test_mul() {

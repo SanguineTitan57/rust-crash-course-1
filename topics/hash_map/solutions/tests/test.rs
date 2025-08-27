@@ -1,4 +1,4 @@
-use hash_map::*;
+use hash_map_solution::*;
 
 #[test]
 fn test_init() {

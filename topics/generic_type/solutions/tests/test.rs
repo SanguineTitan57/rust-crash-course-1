@@ -1,4 +1,4 @@
-use generic_type::*;
+use generic_type_solution::*;
 
 #[test]
 fn test_first() {

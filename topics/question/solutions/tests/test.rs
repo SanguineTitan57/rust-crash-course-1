@@ -1,4 +1,4 @@
-use question::*;
+use question_solution::*;
 
 #[test]
 fn test_sum() {

@@ -1,4 +1,4 @@
-use if_else::*;
+use if_else_solution::*;
 
 #[test]
 fn test_min() {

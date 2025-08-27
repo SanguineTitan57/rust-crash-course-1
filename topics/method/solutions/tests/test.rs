@@ -1,4 +1,4 @@
-use method::*;
+use method_solution::*;
 
 #[test]
 fn test_new() {

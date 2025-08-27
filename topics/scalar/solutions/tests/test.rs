@@ -1,4 +1,4 @@
-use scalar::*;
+use scalar_solution::*;
 
 #[test]
 fn test_eq() {

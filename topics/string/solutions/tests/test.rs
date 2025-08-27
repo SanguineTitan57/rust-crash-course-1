@@ -1,4 +1,4 @@
-use string::*;
+use string_solution::*;
 
 #[test]
 fn test_hello() {

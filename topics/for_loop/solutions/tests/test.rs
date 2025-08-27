@@ -1,4 +1,4 @@
-use for_loop::*;
+use for_loop_solution::*;
 
 #[test]
 fn test_sum() {

@@ -1,4 +1,4 @@
-use error::*;
+use error_solution::*;
 
 #[test]
 fn test_div() {
