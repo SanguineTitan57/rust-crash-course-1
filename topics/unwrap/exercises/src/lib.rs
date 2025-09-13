@@ -1,7 +1,11 @@
 pub fn parse_and_add(a: &str, b: &str) -> u32 {
-    todo!();
+    let a_num = a.parse::<u32>().expect("Failed to parse variable");
+    let b_num = b.parse::<u32>().expect("Failed to parse variable");
+    a_num + b_num
 }
 
 pub fn unwrap_and_add(x: Option<u32>, y: Option<u32>) -> u32 {
-    todo!();
+    let a = x.unwrap();
+    let b = y.unwrap();
+    a + b
 }
